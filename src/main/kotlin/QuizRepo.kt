@@ -1,0 +1,3 @@
+interface QuizRepo {
+    fun answer()
+}

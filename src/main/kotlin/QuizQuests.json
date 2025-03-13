@@ -1,0 +1,62 @@
+[
+  {
+    "Nr": 0,
+    "Title": "Grundlagen der Mathematik",
+    "Quest": "Was ist 2+2? a) 3, b) 4, c) 5, d) 6",
+    "Answer": "b"
+  },
+  {
+    "Nr": 1,
+    "Title": "Deutsche Geographie",
+    "Quest": "Was ist die Hauptstadt von Deutschland? a) München, b) Berlin, c) Frankfurt, d) Hamburg",
+    "Answer": "b"
+  },
+  {
+    "Nr": 2,
+    "Title": "Wissenschaft",
+    "Quest": "Welches Element hat das chemische Symbol 'O'? a) Sauerstoff, b) Wasserstoff, c) Stickstoff, d) Kohlenstoff",
+    "Answer": "a"
+  },
+  {
+    "Nr": 3,
+    "Title": "Geschichte",
+    "Quest": "In welchem Jahr fiel die Berliner Mauer? a) 1987, b) 1989, c) 1991, d) 1993",
+    "Answer": "b"
+  },
+  {
+    "Nr": 4,
+    "Title": "Literatur",
+    "Quest": "Wer schrieb 'Faust'? a) Schiller, b) Goethe, c) Lessing, d) Kleist",
+    "Answer": "b"
+  },
+  {
+    "Nr": 5,
+    "Title": "Sport",
+    "Quest": "Welches Land gewann die Fußball-Weltmeisterschaft 2014? a) Brasilien, b) Spanien, c) Deutschland, d) Italien",
+    "Answer": "c"
+  },
+  {
+    "Nr": 6,
+    "Title": "Kunst",
+    "Quest": "Welcher Künstler malte die Mona Lisa? a) Van Gogh, b) Picasso, c) Leonardo da Vinci, d) Rembrandt",
+    "Answer": "c"
+  },
+  {
+    "Nr": 7,
+    "Title": "Musik",
+    "Quest": "Welche Note ist eine Quinte in der C-Dur Tonleiter? a) F, b) G, c) A, d) B",
+    "Answer": "b"
+  },
+  {
+    "Nr": 8,
+    "Title": "Technologie",
+    "Quest": "Welches Unternehmen entwickelte das iPhone? a) Microsoft, b) Google, c) Apple, d) Samsung",
+    "Answer": "c"
+  },
+  {
+    "Nr": 9,
+    "Title": "Allgemeinwissen",
+    "Quest": "Welcher Planet ist bekannt als der Rote Planet? a) Venus, b) Mars, c) Jupiter, d) Saturn",
+    "Answer": "b"
+  }
+]
